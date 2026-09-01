@@ -96,7 +96,13 @@ python3 particle_field.py
   precomputed once, then refreshed for any particle that respawns, and
   redrawn every frame using each particle's current projected position.
 
+## Demo
+
+![Audio Visualizer Demo](images/demo.gif)
+
 ## Tuning
+
+
 
 A few constants near the top of the main loop are the main knobs:
 
