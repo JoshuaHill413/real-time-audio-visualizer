@@ -98,7 +98,7 @@ python3 particle_field.py
 
 ## Demo
 
-![Audio Visualizer Demo](images/demo.gif)
+![Audio Visualizer Demo](images/VisualizerExample.gif)
 
 ## Tuning
 
