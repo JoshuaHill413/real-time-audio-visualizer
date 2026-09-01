@@ -71,7 +71,7 @@ python3 list_devices.py
 ## Usage
 
 ```bash
-python3 particle_field.py
+python3 visualizer.py
 ```
 
 - **Esc** or **Delete** — quit
